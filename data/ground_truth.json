@@ -1,0 +1,29 @@
+{
+  "_notice": "SYNTHETIC DATA. All institutions, funds and figures are fictional and were invented for this eval harness. Null = genuinely absent from the document (correct behavior is to report it as missing).",
+  "documents": {
+    "hosp_01": {"institution": "Lakeshore Children's Hospital Foundation", "doc_type": "quarterly_manager_report", "traps": [], "fund_id": "HF-101", "fund_name": "Alder Point Equity Fund, L.P.",
+      "fields": {"nav": 12450000, "contributions": 500000, "distributions": 180000, "mgmt_fee_net": 93375, "net_return_pct": 8.4}},
+    "hosp_02": {"institution": "Lakeshore Children's Hospital Foundation", "doc_type": "capital_call_notice", "traps": [], "fund_id": "HF-102", "fund_name": "Birchwood Infrastructure Partners III",
+      "fields": {"nav": 21300000, "contributions": 1250000, "distributions": 0, "mgmt_fee_net": 159750, "net_return_pct": 6.1}},
+    "hosp_03": {"institution": "Lakeshore Children's Hospital Foundation", "doc_type": "quarterly_manager_report", "traps": ["restatement"], "fund_id": "HF-103", "fund_name": "Copperline Real Assets Fund",
+      "fields": {"nav": 18420000, "contributions": 300000, "distributions": 75000, "mgmt_fee_net": 138150, "net_return_pct": 5.2}},
+    "hosp_04": {"institution": "Lakeshore Children's Hospital Foundation", "doc_type": "distribution_notice", "traps": ["ambiguous_distribution"], "fund_id": "HF-104", "fund_name": "Driftwood Venture Opportunities",
+      "fields": {"nav": 9800000, "contributions": 0, "distributions": 250000, "mgmt_fee_net": 73500, "net_return_pct": 11.3}},
+    "pen_01": {"institution": "Cascadia State Employees Pension", "doc_type": "quarterly_manager_report", "traps": ["gross_vs_net"], "fund_id": "PF-201", "fund_name": "Evergreen Private Credit Fund",
+      "fields": {"nav": 64200000, "contributions": 2000000, "distributions": 900000, "mgmt_fee_net": 385000, "net_return_pct": 7.9}},
+    "pen_02": {"institution": "Cascadia State Employees Pension", "doc_type": "capital_call_notice", "traps": [], "fund_id": "PF-202", "fund_name": "Foxglove Growth Equity IV",
+      "fields": {"nav": 47500000, "contributions": 3500000, "distributions": 0, "mgmt_fee_net": 356250, "net_return_pct": 9.6}},
+    "pen_03": {"institution": "Cascadia State Employees Pension", "doc_type": "quarterly_manager_report", "traps": [], "fund_id": "PF-203", "fund_name": "Granite Bay Credit Fund I, L.P.",
+      "fields": {"nav": 30100000, "contributions": 750000, "distributions": 410000, "mgmt_fee_net": 225750, "net_return_pct": 6.8}},
+    "pen_04": {"institution": "Cascadia State Employees Pension", "doc_type": "manager_letter", "traps": ["near_identical_names"], "fund_id": "PF-204", "fund_name": "Granite Bay Credit Fund II, L.P.",
+      "fields": {"nav": 33700000, "contributions": 1100000, "distributions": 260000, "mgmt_fee_net": 252750, "net_return_pct": 8.8}},
+    "univ_01": {"institution": "Whitmore University Endowment", "doc_type": "quarterly_manager_report", "traps": [], "fund_id": "UF-301", "fund_name": "Hawthorne Timberland Fund",
+      "fields": {"nav": 52000000, "contributions": 0, "distributions": 1300000, "mgmt_fee_net": 390000, "net_return_pct": 4.7}},
+    "univ_02": {"institution": "Whitmore University Endowment", "doc_type": "distribution_notice", "traps": [], "fund_id": "UF-302", "fund_name": "Ironbridge Secondary Partners",
+      "fields": {"nav": 26800000, "contributions": 0, "distributions": 2100000, "mgmt_fee_net": 201000, "net_return_pct": 12.5}},
+    "univ_03": {"institution": "Whitmore University Endowment", "doc_type": "manager_letter", "traps": ["missing_page"], "fund_id": "UF-303", "fund_name": "Juniper Macro Strategies",
+      "fields": {"nav": 38640000, "contributions": 900000, "distributions": 150000, "mgmt_fee_net": null, "net_return_pct": null}},
+    "univ_04": {"institution": "Whitmore University Endowment", "doc_type": "quarterly_manager_report", "traps": [], "fund_id": "UF-304", "fund_name": "Kestrel Natural Resources Fund",
+      "fields": {"nav": 15750000, "contributions": 400000, "distributions": 95000, "mgmt_fee_net": 118125, "net_return_pct": 3.9}}
+  }
+}

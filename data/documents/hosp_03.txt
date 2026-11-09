@@ -1,0 +1,19 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Lakeshore Children's Hospital Foundation
+Document Type: Quarterly Manager Report (revised)
+Document ID: hosp_03
+Fund ID: HF-103
+Fund Name: Copperline Real Assets Fund
+Period: Q2 2026
+
+Fund Summary
+NAV (as originally reported): $18,900,000
+NAV (restated): $18,420,000
+Contributions: $300,000
+Distributions: $75,000
+Management Fee: $138,150
+Net Return: 5.2%
+
+Restatement Note
+The valuation of one property was revised following a final appraisal. The
+restated NAV supersedes the figure originally reported.

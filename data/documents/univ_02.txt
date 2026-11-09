@@ -1,0 +1,17 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Whitmore University Endowment
+Document Type: Distribution Notice
+Document ID: univ_02
+Fund ID: UF-302
+Fund Name: Ironbridge Secondary Partners
+Period: Q3 2026
+
+Notice
+The Fund is distributing proceeds from the sale of two secondary positions.
+
+Fund Summary
+NAV: $26,800,000
+Contributions: $0
+Distributions: $2,100,000
+Management Fee: $201,000
+Net Return: 12.5%

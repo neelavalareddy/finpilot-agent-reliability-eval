@@ -1,0 +1,17 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Cascadia State Employees Pension
+Document Type: Capital Call Notice
+Document ID: pen_02
+Fund ID: PF-202
+Fund Name: Foxglove Growth Equity IV
+Period: Q3 2026
+
+Notice
+The General Partner hereby calls capital to fund two portfolio investments.
+
+Fund Summary (enclosed)
+NAV: $47,500,000
+Contributions: $3,500,000
+Distributions: $0
+Management Fee: $356,250
+Net Return: 9.6%

@@ -1,0 +1,17 @@
+{
+  "_notice": "SYNTHETIC DATA. Fictional cash ledger: per-document contribution and distribution totals recorded by the (fictional) institutions' finance teams.",
+  "entries": {
+    "hosp_01": {"contributions": 500000, "distributions": 180000},
+    "hosp_02": {"contributions": 1250000, "distributions": 0},
+    "hosp_03": {"contributions": 300000, "distributions": 75000},
+    "hosp_04": {"contributions": 0, "distributions": 250000},
+    "pen_01": {"contributions": 2000000, "distributions": 900000},
+    "pen_02": {"contributions": 3500000, "distributions": 0},
+    "pen_03": {"contributions": 750000, "distributions": 410000},
+    "pen_04": {"contributions": 1100000, "distributions": 260000},
+    "univ_01": {"contributions": 0, "distributions": 1300000},
+    "univ_02": {"contributions": 0, "distributions": 2100000},
+    "univ_03": {"contributions": 900000, "distributions": 150000},
+    "univ_04": {"contributions": 400000, "distributions": 95000}
+  }
+}

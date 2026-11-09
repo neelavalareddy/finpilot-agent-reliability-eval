@@ -1,0 +1,18 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Cascadia State Employees Pension
+Document Type: Quarterly Manager Report
+Document ID: pen_03
+Fund ID: PF-203
+Fund Name: Granite Bay Credit Fund I, L.P.
+Period: Q3 2026
+
+Fund Summary
+NAV: $30,100,000
+Contributions: $750,000
+Distributions: $410,000
+Management Fee: $225,750
+Net Return: 6.8%
+
+Commentary
+Note: this report covers Fund I only. Granite Bay Credit Fund II is a separate
+vehicle with its own reporting.

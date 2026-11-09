@@ -1,0 +1,18 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Whitmore University Endowment
+Document Type: Quarterly Manager Report
+Document ID: univ_01
+Fund ID: UF-301
+Fund Name: Hawthorne Timberland Fund
+Period: Q3 2026
+
+Fund Summary
+NAV: $52,000,000
+Contributions: $0
+Distributions: $1,300,000
+Management Fee: $390,000
+Net Return: 4.7%
+
+Commentary
+Harvest volumes were seasonally strong; a timber parcel sale funded the
+distribution.

@@ -1,0 +1,28 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Cascadia State Employees Pension
+Document Type: Manager Letter
+Document ID: pen_04
+Fund ID: PF-204
+Fund Name: Granite Bay Credit Fund II, L.P.
+Period: Q3 2026
+
+Dear Investor,
+This letter concerns your holding in Fund II. For comparison we also include
+the sister vehicle, Fund I, which is a different fund with different figures.
+
+[PF-203] Granite Bay Credit Fund I, L.P. (reference only - NOT the subject of this letter)
+NAV: $29,950,000
+Contributions: $600,000
+Distributions: $120,000
+Management Fee: $224,625
+Net Return: 7.1%
+
+[PF-204] Granite Bay Credit Fund II, L.P. (subject of this letter)
+NAV: $33,700,000
+Contributions: $1,100,000
+Distributions: $260,000
+Management Fee: $252,750
+Net Return: 8.8%
+
+Sincerely,
+The Investor Relations Team

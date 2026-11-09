@@ -1,0 +1,18 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Lakeshore Children's Hospital Foundation
+Document Type: Quarterly Manager Report
+Document ID: hosp_01
+Fund ID: HF-101
+Fund Name: Alder Point Equity Fund, L.P.
+Period: Q3 2026
+
+Fund Summary
+NAV: $12,450,000
+Contributions: $500,000
+Distributions: $180,000
+Management Fee: $93,375
+Net Return: 8.4%
+
+Commentary
+The portfolio performed in line with expectations during the quarter. Two
+follow-on investments closed and one partial exit was completed.

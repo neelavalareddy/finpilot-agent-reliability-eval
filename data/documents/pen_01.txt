@@ -1,0 +1,19 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Cascadia State Employees Pension
+Document Type: Quarterly Manager Report
+Document ID: pen_01
+Fund ID: PF-201
+Fund Name: Evergreen Private Credit Fund
+Period: Q3 2026
+
+Fund Summary
+NAV: $64,200,000
+Contributions: $2,000,000
+Distributions: $900,000
+Management Fee (gross): $480,000
+Management Fee (net of fee offsets): $385,000
+Net Return: 7.9%
+
+Fee Note
+Fee offsets arise from transaction fees retained by the manager and credited
+back to investors. The net figure is the fee actually borne by the investor.

@@ -1,0 +1,17 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Whitmore University Endowment
+Document Type: Quarterly Manager Report
+Document ID: univ_04
+Fund ID: UF-304
+Fund Name: Kestrel Natural Resources Fund
+Period: Q3 2026
+
+Fund Summary
+NAV: $15,750,000
+Contributions: $400,000
+Distributions: $95,000
+Management Fee: $118,125
+Net Return: 3.9%
+
+Commentary
+Commodity prices were volatile; the manager maintained its hedging program.

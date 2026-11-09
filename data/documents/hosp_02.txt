@@ -1,0 +1,19 @@
+*** SYNTHETIC DOCUMENT - FICTIONAL DATA - NOT REAL ***
+Institution: Lakeshore Children's Hospital Foundation
+Document Type: Capital Call Notice
+Document ID: hosp_02
+Fund ID: HF-102
+Fund Name: Birchwood Infrastructure Partners III
+Period: Q3 2026
+
+Notice
+Pursuant to the Limited Partnership Agreement, the General Partner is calling
+capital from investors to fund a new toll-road acquisition. Payment is due
+within ten business days of this notice.
+
+Fund Summary (enclosed)
+NAV: $21,300,000
+Contributions: $1,250,000
+Distributions: $0
+Management Fee: $159,750
+Net Return: 6.1%
